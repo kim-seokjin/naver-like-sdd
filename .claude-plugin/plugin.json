@@ -1,0 +1,7 @@
+{
+  "name": "naver-like-sdd",
+  "version": "0.1.0",
+  "description": "NAVER Engineering Day 발표에서 영감을 받은 스펙 주도 개발 플러그인. 의도는 plan.md에, 결정은 decisions.md에 남깁니다. (비공식)",
+  "author": { "name": "Seokjin Kim" },
+  "keywords": ["sdd", "spec-driven-development", "decision-log", "workflow"]
+}
